@@ -36,21 +36,6 @@ Marina Danilevsky, Kun Qian, Ranit Aharonov, Yannis Katasis, Ban Kawas, Prithvir
 (AACL-IJCNLP 2020) <br/>
 [Paper](https://www.aclweb.org/anthology/2020.aacl-main.46/)
 
-```
-@inproceedings{danilevsky-etal-2020-survey,
-title = "A Survey of the State of Explainable {AI} for Natural Language Processing",
-author = "Danilevsky, Marina and
-Qian, Kun and
-Aharonov, Ranit and
-Katsis, Yannis and
-Kawas, Ban and
-Sen, Prithviraj",
-booktitle = "Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing",
-publisher = "Association for Computational Linguistics",
-url = "https://www.aclweb.org/anthology/2020.aacl-main.46",
-pages = "447--459",
-```
-
 ----
 ### Tutorials
 **Explainability for Natural Language Processing.**<br/>
