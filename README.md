@@ -39,10 +39,17 @@ Marina Danilevsky, Kun Qian, Ranit Aharonov, Yannis Katasis, Ban Kawas, Prithvir
 
 
 ----
+
 ### Tutorial
 **Explainability for Natural Language Processing.**<br/>
-Shipi Dhanorkar, Yunyao Li, Lucian Popa, Kun Qian, Christine T Wolf, Anbang Xu
+Marina Danilevsky, Shipi Dhanorkar, Yunyao Li, Lucian Popa, Kun Qian, Anbang Xu<br/>
+(KDD 2021) <br/>
+[Website](https://explainability-nlp.github.io/kddtutorial.github.io/)
+
+
+**Explainability for Natural Language Processing.**<br/>
+Shipi Dhanorkar, Yunyao Li, Lucian Popa, Kun Qian, Christine T Wolf, Anbang Xu<br/>
 (AACL-IJCNLP 2020) <br/>
-[video recording](https://www.youtube.com/watch?v=3tnrGe_JA0s), [Slides](https://www2.slideshare.net/YunyaoLi/explainability-for-natural-language-processing)
+[Video-Recording](https://www.youtube.com/watch?v=3tnrGe_JA0s), [Slides](https://www2.slideshare.net/YunyaoLi/explainability-for-natural-language-processing)
 
 
