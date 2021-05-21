@@ -1,18 +1,18 @@
 Welcome! You can find research assets of our Explainable AI (XAI) Research Project in this website including past demos, papers, survey, and tutorials.
 
 ### List of Contributors (in alphabetical order)
-- Ranit Aharonov 
-- [Marina Danilevsky](https://researcher.watson.ibm.com/researcher/view.php?person=us-mdanile)
-- [Shipi Dhanorkar](https://www.shipidhanorkar.com/)
-- [Yannis Katsis](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Yannis.Katsis)
-- Ban Kawas
-- [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli)
-- [Erick Oduor](https://researcher.watson.ibm.com/researcher/view.php?person=ke-ErickO)
-- [Lucian Popa](https://researcher.watson.ibm.com/researcher/view.php?person=us-lpopa)
-- [Kun Qian](https://kunqian-58.github.io/kunqian/)
-- [Prithviraj Sen](https://researcher.watson.ibm.com/researcher/view.php?person=us-senp)
-- Chritine T Wolf
-- [Anbang Xu](https://researcher.watson.ibm.com/researcher/view.php?person=us-anbangxu)
+- Ranit Aharonov - IBM Research
+- [Marina Danilevsky](https://researcher.watson.ibm.com/researcher/view.php?person=us-mdanile) - IBM Research
+- [Shipi Dhanorkar](https://www.shipidhanorkar.com/) - Pennsylvania State University
+- [Yannis Katsis](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Yannis.Katsis) - IBM Research
+- Ban Kawas - Facebook AI Research
+- [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli) - IBM Research
+- [Erick Oduor](https://researcher.watson.ibm.com/researcher/view.php?person=ke-ErickO) - IBM 
+- [Lucian Popa](https://researcher.watson.ibm.com/researcher/view.php?person=us-lpopa) - IBM Research
+- [Kun Qian](https://kunqian-58.github.io/kunqian/) - Amazon
+- [Prithviraj Sen](https://researcher.watson.ibm.com/researcher/view.php?person=us-senp) - IBM Research
+- Chritine T Wolf - Independent Researcher
+- [Anbang Xu](https://researcher.watson.ibm.com/researcher/view.php?person=us-anbangxu) - IBM Research
 
 
 ----
