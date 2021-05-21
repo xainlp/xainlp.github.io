@@ -1,41 +1,35 @@
-## Welcome! This is the main page of our Explainable AI Research Project.
+Welcome! You can find research assets of our Explainable AI (XAI) Research Project in this website including past survey, tutorials, and demos.
 
-You can find research assets of our Explainable AI (XAI) Research Project in this website including past survey, tutorials, and demo. 
+### List of Contributors (in alphabetical order)
+Ranit Aharonov 
+Marina Danilevsky
+Shipi Dhanorkar
+Yannis Katasis
+Ban Kawas
+Yunyao Li
+Erick Oduor
+Lucian Popa
+Kun Qian
+Prithviraj Sen
+Chritine T Wolf
+Anbang Xu
+
+
+### Demos
+
 
 
 ### Survey
+**Survey of the State of Explainable AI for Natural Language Processing** <br/>
+Marina Danilevsky, Kun Qian, Ranit Aharonov, Yannis Katasis, Ban Kawas, Prithviraj Sen <br/>
+(AACL-IJCNLP 2020) <br/>
+[Paper](https://www.aclweb.org/anthology/2020.aacl-main.46/)
 
-A Survey of the State of Explainable AI for Natural Language Processing
+
+### Tutorial
+**Explainability for Natural Language Processing.**<br/>
+Shipi Dhanorkar, Yunyao Li, Lucian Popa, Kun Qian, Christine T Wolf, Anbang Xu
+(AACL-IJCNLP 2020) <br/>
+[video recording](https://www.youtube.com/watch?v=3tnrGe_JA0s)
 
 
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/explainability-nlp/explainability-nlp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
