@@ -21,7 +21,7 @@ Welcome! You can find research assets of our Explainable AI (XAI) Research Proje
 **XNLP: A Living Survey for XAI Research in Natural Language Processing** <br/>
 Kun Qian, Marina Danilevsky, Yannis Katsis, Ban Kawas, Erick Oduor, Lucian Popa, Yunyao Li <br/>
 (IUI 2021) <br/>
-[Paper](https://dl.acm.org/doi/abs/10.1145/3397482.3450728), [Link](https://xainlp2020.github.io/xainlp/)
+[Paper](https://dl.acm.org/doi/abs/10.1145/3397482.3450728), [Website](https://xainlp2020.github.io/xainlp/)
 
 **XAIT: An Interactive Website for Explainable AI for Text.** <br/>
 Eno Oduor, Kun Qian, Yunyao Li, Lucian Popa <br/>
@@ -41,7 +41,7 @@ Marina Danilevsky, Kun Qian, Ranit Aharonov, Yannis Katasis, Ban Kawas, Prithvir
 **Explainability for Natural Language Processing.**<br/>
 Marina Danilevsky, Shipi Dhanorkar, Yunyao Li, Lucian Popa, Kun Qian, Anbang Xu<br/>
 (KDD 2021) <br/>
-[Website](https://explainability-nlp.github.io/kddtutorial.github.io/)
+[Website](https://xainlp.github.io/kddtutorial/)
 
 
 **Explainability for Natural Language Processing.**<br/>
