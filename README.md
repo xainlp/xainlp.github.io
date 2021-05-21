@@ -4,10 +4,10 @@ Welcome! You can find research assets of our Explainable AI (XAI) Research Proje
 - Ranit Aharonov 
 - [Marina Danilevsky](https://researcher.watson.ibm.com/researcher/view.php?person=us-mdanile)
 - [Shipi Dhanorkar](https://www.shipidhanorkar.com/)
-- Yannis Katasis
+- [Yannis Katsis](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Yannis.Katsis)
 - Ban Kawas
 - [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli)
-- Erick Oduor
+- [Erick Oduor](https://researcher.watson.ibm.com/researcher/view.php?person=ke-ErickO)
 - [Lucian Popa](https://researcher.watson.ibm.com/researcher/view.php?person=us-lpopa)
 - [Kun Qian](https://kunqian-58.github.io/kunqian/)
 - [Prithviraj Sen](https://researcher.watson.ibm.com/researcher/view.php?person=us-senp)
