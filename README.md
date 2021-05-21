@@ -1,4 +1,4 @@
-Welcome! You can find research assets of our Explainable AI (XAI) Research Project in this website including past survey, tutorials, and demos.
+Welcome! You can find research assets of our Explainable AI (XAI) Research Project in this website including past demos, papers, survey, and tutorials.
 
 ### List of Contributors (in alphabetical order)
 - Ranit Aharonov 
@@ -65,3 +65,8 @@ Shipi Dhanorkar, Yunyao Li, Lucian Popa, Kun Qian, Christine T Wolf, Anbang Xu<b
 [Video-Recording](https://www.youtube.com/watch?v=3tnrGe_JA0s), [Slides](https://www2.slideshare.net/YunyaoLi/explainability-for-natural-language-processing)
 
 
+---
+### Research Paper
+**Who needs to know what, when?: Broadening the Explainable AI (XAI) Design Space by Looking at Explanations Across the AI Lifecycle**<br/>
+Shipi Dhanorkar, Christine T Wolf, Kun Qian, Anbang Xu, Lucian Popa, Yunyao Li<br/>
+(ACM DIS 2021, to appear)
