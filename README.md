@@ -35,7 +35,7 @@ Eno Oduor, Kun Qian, Yunyao Li, Lucian Popa <br/>
 **A Survey of the State of Explainable AI for Natural Language Processing** <br/>
 Marina Danilevsky, Kun Qian, Ranit Aharonov, Yannis Katasis, Ban Kawas, Prithviraj Sen <br/>
 (AACL-IJCNLP 2020) <br/>
-[Paper](https://www.aclweb.org/anthology/2020.aacl-main.46/)
+[Paper](https://www.aclweb.org/anthology/2020.aacl-main.46/), [Companion Website](https://xainlp2020.github.io/xainlp/)
 
 ----
 ### Tutorials
