@@ -1,3 +1,6 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxainlp.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%23+Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 Welcome! You can find research assets of our Explainable AI (XAI) Research Project in this website including past demos, papers, survey, and tutorials.
 
 ### List of Contributors (in alphabetical order)
