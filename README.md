@@ -64,6 +64,16 @@ Shipi Dhanorkar, Christine T Wolf, Kun Qian, Anbang Xu, Lucian Popa, Yunyao Li<b
 ---
 ### Cite our work
 If you find our work useful, please cite our work
+- KDD 2021 tutorial (Explainability for Natural Language Processing)
+```
+@inproceedings{danilevsky2021explainability,
+  title={Explainability for Natural Language Processing},
+  author={Danilevsky, Marina and Dhanorkar, Shipi and Li, Yunyao and Popa, Lucian and Qian, Kun and Xu, Anbang},
+  booktitle={Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
+  pages={4033--4034},
+  year={2021}
+}
+```
 
 - IUI 2021 demo (XNLP website)
 ```
